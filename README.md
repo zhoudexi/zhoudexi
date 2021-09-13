@@ -27,7 +27,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=zhoudexi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=zhoudexi&color=green" />
 
 <!--
 **zhoudexi/zhoudexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
