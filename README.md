@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying on gpnu.
 - 📙 Check out my [Resume](https://raw.githubusercontent.com/zhoudexi/Resume/main/Resume.pdf).
-- 👨‍💻 Most of my projects are available on [Github](https://raw.githubusercontent.com/zhoudexi/Resume/main/Resume.pdf).
+- 👨‍💻 Most of my projects are available on [repositories](https://github.com/zhoudexi?tab=repositories).
 - 🤔 I’m looking for help with Job hunting
 
 <h2 align="center">⚡ Stats ⚡</h2>
