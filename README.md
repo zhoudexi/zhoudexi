@@ -1,4 +1,4 @@
-### Hi there 👋,I'm ZhouDeXi.
+### Hi there 👋,I'm DeXiZhou.
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=zhoudexi.zhoudexi">
 
