@@ -28,6 +28,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=zhoudexi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+  <p>
+    <a href="https://wangchujiang.com/">
+      <img src="https://github-profile-trophy.vercel.app/?username=zhoudexi&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+    </a>
+  </p>
 
 <!--
 **zhoudexi/zhoudexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
