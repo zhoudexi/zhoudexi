@@ -15,7 +15,7 @@
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zhoudexi&theme=react&border=61dafb&hide_border=true" alt="zhoudexi" />
     </a>
     <a href="https://github.com/zhoudexi/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zhoudexi&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zhoudexi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
