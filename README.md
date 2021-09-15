@@ -3,7 +3,7 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=zhoudexi.zhoudexi">
 
 - 🔭 I’m currently studying on gpnu.
-- 📙 Check out my [Resume](https://raw.githubusercontent.com/zhoudexi/Resume/main/Resume.pdf).
+- 📙 Check out my [Resume](https://zhoudexi.github.io/Resume/).
 - 👨‍💻 Most of my projects are available on [repositories](https://github.com/zhoudexi?tab=repositories).
 - 🤔 I’m looking for help with Job hunting
 
