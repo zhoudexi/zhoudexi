@@ -13,7 +13,7 @@
   <div align=center>
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zhoudexi&theme=react&border=61dafb&hide_border=true" alt="zhoudexi" />
     </a>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoudexi)](https://github.com/anuraghazra/github-readme-stats)
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zhoudexi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
